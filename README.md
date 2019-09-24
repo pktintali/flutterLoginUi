@@ -1,7 +1,7 @@
 # login_ui
 
-A new Flutter application.
-
+A Beautiful and responsive Login ui designed with flutter using dart.
+@Copyrights TDevelopersIndia
 ## Getting Started
 
 This project is a starting point for a Flutter application.
