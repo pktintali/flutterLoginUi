@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Login Page',
+      title: 'Loe',
       theme: ThemeData(
         primarySwatch: Colors.deepOrange,
       ),
